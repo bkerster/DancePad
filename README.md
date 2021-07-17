@@ -18,7 +18,7 @@ Base: 35" x 35" (1)
 Edges: 1" x 34" (4)
 Static plates: 11" x 11" (5)
 
-I had the base cut out of the original plywood sheet, which was a big help. 
+I had the base cut out of the original plywood sheet when I bought the wood from Home Depot, which was a big help. 
 I went into this project with no woodworking experience, and breaking down the wood into the right sizes with nice perpendicular cuts was a major challenge. If you're new to woodworking make sure you have a strategy to ensure you get nice straight cuts. Using a track saw or tablesaw would help a lot, or at least make sure to use carefully positioned guides with a circular saw (which is what I ultimately did).
 
 After cutting all of the plywood I glued the 1" borders to the base, and then spray painted the sides of the base and the borders. I did several coats with a light sanding between each coat.
