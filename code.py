@@ -1,5 +1,4 @@
-# Write your code here :-)
-"""CircuitPython Essentials Pin Map Script"""
+"""DDR Pad Keyboard device code"""
 import time
 
 import board
@@ -61,17 +60,16 @@ while True:
         if v == 1 and prev_v == 0:
             # new press
             keyboard.press(key_mapping[k])
-            #pass
         elif v == 0 and prev_v == 1:
             # press ended
             keyboard.release(key_mapping[k])
-            #pass
 
         prev_states[k] = v
 
     time.sleep(0.005)
 
-    # debug statement
+    # debug statement: For debugging comment out line 70, then uncomment either line 73 OR 74 plus line 75.
+    # The first line here shows whether each button would fire. The second provides raw voltage to use for sensitivity callibration. 
     #print((states['r'], states['l'], states['u'], states['d'], states['blue'], states['red']))
     #print( tuple([get_voltage(x) for x in a_inputs]) )
     #time.sleep(0.1)
