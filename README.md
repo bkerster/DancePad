@@ -4,7 +4,7 @@ Credit to Promit. His pad design heavily inspired me, and sensor design in parti
 
 Super Make Something also had a substantial influence on my final design: https://www.youtube.com/watch?v=nXjj9IXUaA4
 
-# Design and measurement
+## Design and measurement
 Before starting this project I read every DDR build guide I could find and incorporated the pieces I liked into my ultimate design.
 I especially liked Promit's design, but had one major issue with it. His uses a giant piece of plexi across the entire pad. I wanted a pad that had discrete physical "buttons." 
 
@@ -18,6 +18,7 @@ Base: 35" x 35" (1)
 Edges: 1" x 34" (4)
 Static plates: 11" x 11" (5)
 
+## Wood Working
 I had the base cut out of the original plywood sheet when I bought the wood from Home Depot, which was a big help. 
 I went into this project with no woodworking experience, and breaking down the wood into the right sizes with nice perpendicular cuts was a major challenge. If you're new to woodworking make sure you have a strategy to ensure you get nice straight cuts. Using a track saw or tablesaw would help a lot, or at least make sure to use carefully positioned guides with a circular saw (which is what I ultimately did).
 
